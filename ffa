@@ -2,11 +2,11 @@
 	"FFAData":
 	{
 		"queueupperiod": 30,
-		"matchlength": 600,
+		"matchlength": 300,
 		"playerlives": 3,
 		"starteventinterval": 3600,
 		"respawncooldown": 3,
-		"repawninvincibilityduration": 2,
+		"repawninvincibilityduration": 3,
 		"playerstatlocks": [
 			{
 				"enablestatlock": true,
