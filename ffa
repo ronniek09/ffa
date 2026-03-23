@@ -163,7 +163,7 @@
 				"messagetodisplay": "You were given the flame crossbow kit!"
 			}
 		],
-		"webhookurl": "",
+		"webhookurl": "https://discord.com/api/webhooks/1485737937781002362/KSrKbDBW4c75AeY0i85bwQX1IogTkhSdxz0zGPwxDrCuZ1ta1Bm2qKev9yV8QLBLfCq2",
 		"chatwarningtimes": [ 3600, 1800, 600, 300 ]
 	}
 }
