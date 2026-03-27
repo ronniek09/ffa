@@ -25,7 +25,7 @@
 				"kitname": "Crossbow",
 				"itemsforkit": [
 					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow_C",
+						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow_C",
 						"quantity": 1,
 						"quality": 0,
 						"tryequip": false,
@@ -79,7 +79,7 @@
 						"hardsetitemstatmax65535": []
 					},
 					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowStone.PrimalItemAmmo_ArrowStone_C",
+						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow_C",
 						"quantity": 100,
 						"quality": 0,
 						"tryequip": false,
@@ -89,7 +89,7 @@
 					}
 				],
 				"dohudmessage": true,
-				"messagetodisplay": "You were given the crossbow kit!"
+				"messagetodisplay": "You were given the Compound bow kit!"
 			},
 			{
 				"used": true,
