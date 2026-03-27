@@ -80,7 +80,7 @@
 					},
 					{
 						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow_C",
-						"quantity": 100,
+						"quantity": 500,
 						"quality": 0,
 						"tryequip": false,
 						"tryslot": false,
@@ -151,7 +151,7 @@
 					},
 					{
 						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowFlame.PrimalItemAmmo_ArrowFlame_C",
-						"quantity": 100,
+						"quantity": 500,
 						"quality": 0,
 						"tryequip": false,
 						"tryslot": false,
