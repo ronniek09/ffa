@@ -3,10 +3,10 @@
 	{
 		"queueupperiod": 30,
 		"matchlength": 200,
-		"playerlives": 3,
+		"playerlives": 30,
 		"starteventinterval": 3600,
 		"respawncooldown": 3,
-		"repawninvincibilityduration": 3,
+		"repawninvincibilityduration": 6,
 		"playerstatlocks": [
 			{
 				"enablestatlock": true,
