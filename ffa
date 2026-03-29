@@ -1,169 +1,244 @@
 {
-	"FFAData":
-	{
-		"queueupperiod": 30,
-		"matchlength": 200,
-		"playerlives": 30,
-		"starteventinterval": 3600,
-		"respawncooldown": 3,
-		"repawninvincibilityduration": 6,
-		"playerstatlocks": [
-			{
-				"enablestatlock": true,
-				"stat": "Health",
-				"statlockvalue": 500
-			},
-			{
-				"enablestatlock": true,
-				"stat": "Stamina",
-				"statlockvalue": 500
-			}
-		],
-		"playerkits": [
-			{
-				"used": true,
-				"kitname": "Crossbow",
-				"itemsforkit": [
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": false,
-						"tryslot": true,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow_C",
-						"quantity": 500,
-						"quality": 0,
-						"tryequip": false,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					}
-				],
-				"dohudmessage": true,
-				"messagetodisplay": "You were given the Compound bow kit!"
-			},
-			{
-				"used": true,
-				"kitname": "Flame Crossbow",
-				"itemsforkit": [
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": false,
-						"tryslot": true,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots_C",
-						"quantity": 1,
-						"quality": 0,
-						"tryequip": true,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					},
-					{
-						"primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowFlame.PrimalItemAmmo_ArrowFlame_C",
-						"quantity": 500,
-						"quality": 0,
-						"tryequip": false,
-						"tryslot": false,
-						"slottouse": 0,
-						"hardsetitemstatmax65535": []
-					}
-				],
-				"dohudmessage": true,
-				"messagetodisplay": "You were given the flame crossbow kit!"
-			}
-		],
-		"webhookurl": "https://discord.com/api/webhooks/1485737937781002362/KSrKbDBW4c75AeY0i85bwQX1IogTkhSdxz0zGPwxDrCuZ1ta1Bm2qKev9yV8QLBLfCq2",
-		"chatwarningtimes": [ 3600, 1800, 600, 300 ]
-	}
+  "FFAData": {
+    "queueupperiod": 30,
+    "matchlength": 200,
+    "playerlives": 30,
+    "starteventinterval": 3600,
+    "respawncooldown": 3,
+    "repawninvincibilityduration": 6,
+    "playerstatlocks": [
+      {
+        "enablestatlock": true,
+        "stat": "Health",
+        "statlockvalue": 500
+      },
+      {
+        "enablestatlock": true,
+        "stat": "Stamina",
+        "statlockvalue": 500
+      }
+    ],
+    "playerkits": [
+      {
+        "used": true,
+        "kitname": "Crossbow",
+        "itemsforkit": [
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": true,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow_C",
+            "quantity": 500,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          }
+        ],
+        "dohudmessage": true,
+        "messagetodisplay": "You were given the Compound bow kit!"
+      },
+      {
+        "used": true,
+        "kitname": "Flame Crossbow",
+        "itemsforkit": [
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": true,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowFlame.PrimalItemAmmo_ArrowFlame_C",
+            "quantity": 500,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          }
+        ],
+        "dohudmessage": true,
+        "messagetodisplay": "You were given the flame crossbow kit!"
+      },
+      {
+        "used": true,
+        "kitname": "LongNeck",
+        "itemsforkit": [
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": true,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": true,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet_C",
+            "quantity": 500,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          }
+        ],
+        "dohudmessage": true,
+        "messagetodisplay": "You were given the Longneck kit!"
+      }
+    ],
+    "webhookurl": "https://discord.com/api/webhooks/1485737937781002362/KSrKbDBW4c75AeY0i85bwQX1IogTkhSdxz0zGPwxDrCuZ1ta1Bm2qKev9yV8QLBLfCq2",
+    "chatwarningtimes": [
+      3600,
+      1800,
+      600,
+      300
+    ]
+  }
 }
