@@ -163,10 +163,10 @@
       },
       {
         "used": true,
-        "kitname": "LongNeck",
+        "kitname": "Shotgun",
         "itemsforkit": [
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShotgun.PrimalItem_WeaponShotgun_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": false,
@@ -220,8 +220,8 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet_C",
-            "quantity": 500,
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet_C",
+            "quantity": 300,
             "quality": 0,
             "tryequip": false,
             "tryslot": false,
