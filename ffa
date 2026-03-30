@@ -92,10 +92,10 @@
       },
       {
         "used": true,
-        "kitname": "Flame Crossbow",
+        "kitname": "Pistol",
         "itemsforkit": [
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedPistol.PrimalItem_WeaponMachinedPistol_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": false,
@@ -149,7 +149,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowFlame.PrimalItemAmmo_ArrowFlame_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedBullet.PrimalItemAmmo_AdvancedBullet_C",
             "quantity": 500,
             "quality": 0,
             "tryequip": false,
