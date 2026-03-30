@@ -236,9 +236,9 @@
 		"webhookurl": "",
 		"chatwarningtimes": [ 3600, 1800, 600, 300 ],
 		"placementrewardcommands": [
-			"Scriptcommand {EOS} {PlayerID} 1st place",
-			"Scriptcommand CoolStuff For 2nd place {EOS}",
-			"Scriptcommand CoolStuff For 3rd place {EOS}"
+			"scriptcommand ea.addwoftoken {EOS} luckyornot 1",
+			"scriptcommand ea.addwoftoken {EOS} luckyornot 1",
+			"scriptcommand ea.addwoftoken {EOS} luckyornot 1"
     ]
   }
 }
