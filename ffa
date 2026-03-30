@@ -21,7 +21,7 @@
     "playerkits": [
       {
         "used": true,
-        "kitname": "Crossbow",
+        "kitname": "Multi",
         "itemsforkit": [
           {
             "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow_C",
@@ -33,6 +33,51 @@
             "hardsetitemstatmax65535": []
           },
           {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": true,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": true,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRocketLauncher.PrimalItem_WeaponRocketLauncher_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": true,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": true,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifle.PrimalItem_WeaponRifle_C",
+            "quantity": 1,
+            "quality": 3,
+            "tryequip": false,
+            "tryslot": true,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
             "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
             "quantity": 1,
             "quality": 0,
@@ -78,8 +123,44 @@
             "hardsetitemstatmax65535": []
           },
           {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C",
+            "quantity": 300,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_Rocket.PrimalItemAmmo_Rocket_C",
+            "quantity": 1,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet_C",
+            "quantity": 200,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedSniperBullet.PrimalItemAmmo_AdvancedSniperBullet_C",
+            "quantity": 200,
+            "quality": 0,
+            "tryequip": false,
+            "tryslot": false,
+            "slottouse": 0,
+            "hardsetitemstatmax65535": []
+          },
+          {
             "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow_C",
-            "quantity": 500,
+            "quantity": 100,
             "quality": 0,
             "tryequip": false,
             "tryslot": false,
@@ -89,148 +170,6 @@
         ],
         "dohudmessage": true,
         "messagetodisplay": "You were given the Compound bow kit!"
-      },
-      {
-        "used": true,
-        "kitname": "Pistol",
-        "itemsforkit": [
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedPistol.PrimalItem_WeaponMachinedPistol_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": false,
-            "tryslot": true,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedBullet.PrimalItemAmmo_AdvancedBullet_C",
-            "quantity": 500,
-            "quality": 0,
-            "tryequip": false,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          }
-        ],
-        "dohudmessage": true,
-        "messagetodisplay": "You were given the flame crossbow kit!"
-      },
-      {
-        "used": true,
-        "kitname": "Shotgun",
-        "itemsforkit": [
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShotgun.PrimalItem_WeaponShotgun_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": false,
-            "tryslot": true,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": true,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet_C",
-            "quantity": 300,
-            "quality": 0,
-            "tryequip": false,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          }
-        ],
-        "dohudmessage": true,
-        "messagetodisplay": "You were given the Longneck kit!"
       }
     ],
 		"webhookurl": "",
