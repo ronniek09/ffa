@@ -33,7 +33,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -42,7 +42,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -51,7 +51,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -60,7 +60,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -69,7 +69,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -104,7 +104,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -113,7 +113,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -122,7 +122,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -131,7 +131,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -140,7 +140,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -175,7 +175,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothHelmet.PrimalItemArmor_ClothHelmet_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -184,7 +184,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothShirt.PrimalItemArmor_ClothShirt_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -193,7 +193,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothPants.PrimalItemArmor_ClothPants_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -202,7 +202,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothGloves.PrimalItemArmor_ClothGloves_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
@@ -211,7 +211,7 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItemArmor_ClothBoots.PrimalItemArmor_ClothBoots_C",
+            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
             "quantity": 1,
             "quality": 0,
             "tryequip": true,
