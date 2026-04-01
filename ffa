@@ -29,7 +29,7 @@
             "quality": 0,
             "tryequip": false,
             "tryslot": true,
-            "slottouse": 0,
+            "slottouse": 1,
             "hardsetitemstatmax65535": []
           },
           {
@@ -38,7 +38,7 @@
             "quality": 0,
             "tryequip": false,
             "tryslot": true,
-            "slottouse": 0,
+            "slottouse": 2,
             "hardsetitemstatmax65535": []
           },
           {
@@ -47,7 +47,7 @@
             "quality": 0,
             "tryequip": false,
             "tryslot": true,
-            "slottouse": 0,
+            "slottouse": 3,
             "hardsetitemstatmax65535": []
           },
           {
@@ -56,7 +56,7 @@
             "quality": 0,
             "tryequip": false,
             "tryslot": true,
-            "slottouse": 0,
+            "slottouse": 4,
             "hardsetitemstatmax65535": []
           },
           {
@@ -65,7 +65,7 @@
             "quality": 3,
             "tryequip": false,
             "tryslot": true,
-            "slottouse": 0,
+            "slottouse": 5,
             "hardsetitemstatmax65535": []
           },
           {
@@ -116,15 +116,6 @@
           {
             "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C",
             "quantity": 300,
-            "quality": 0,
-            "tryequip": false,
-            "tryslot": false,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_Rocket.PrimalItemAmmo_Rocket_C",
-            "quantity": 1,
             "quality": 0,
             "tryequip": false,
             "tryslot": false,
