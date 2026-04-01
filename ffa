@@ -51,15 +51,6 @@
             "hardsetitemstatmax65535": []
           },
           {
-            "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRocketLauncher.PrimalItem_WeaponRocketLauncher_C",
-            "quantity": 1,
-            "quality": 0,
-            "tryequip": false,
-            "tryslot": true,
-            "slottouse": 0,
-            "hardsetitemstatmax65535": []
-          },
-          {
             "primalitem": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper_C",
             "quantity": 1,
             "quality": 0,
